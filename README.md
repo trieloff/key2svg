@@ -7,9 +7,9 @@ Command line tools to convert Keynote slides to SVG
 You will need Apple Keynote, Ghostscript, and Inkscape to run this script. Inkscape requires XQuartz.
 
 ```bash
-brew cask install xquartz 
-brew install caskroom/cask/inkscape
-brew install ghostscript
+$ brew cask install xquartz 
+$ brew install caskroom/cask/inkscape
+$ brew install ghostscript
 ```
 
 ## Installation
