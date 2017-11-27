@@ -9,7 +9,7 @@ You will need Apple Keynote, Ghostscript, pdfseparate, Poppler, and Inkscape to 
 ```bash
 $ brew cask install xquartz 
 $ brew install caskroom/cask/inkscape
-$ brew install ghostscript pdfseparate poppler
+$ brew install ghostscript poppler
 ```
 
 ## Installation
