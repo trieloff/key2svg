@@ -1,9 +1,9 @@
 #!/bin/sh
 
-KEY=$1
+KEY=$(realpath "$1")
 DIR=$(dirname "$KEY")
 
-PDF=`cat <<EOF | osascript - "$1"
+PDF=`cat <<EOF | osascript - "$KEY"
 property exportFileExtension : "pdf"
 property useEncryptionDefaultValue : false
 
