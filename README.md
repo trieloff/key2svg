@@ -1,6 +1,6 @@
 # key2svg
 
-Command line tools to convert Keynote slides to SVG
+Command line tools to convert Keynote slides to SVG. You can think of it as a "print-to-SVG" script, so it does not create animated SVGs, just plain static SVGs.
 
 ## Prerequisites
 
