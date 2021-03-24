@@ -27,7 +27,7 @@ $ chmod +x key2svg.sh
 Run the script and pass the path to a Keynote file as the first command line argument.
 
 ```bash
-$ ./key2svg /path/to/your/keynote.key
+$ ./key2svg.sh /path/to/your/keynote.key
 ```
 
 ## License
